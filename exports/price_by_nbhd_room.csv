@@ -1,0 +1,72 @@
+neighbourhood,room_type,avg_price,listings_with_price
+Ashley,Entire home/apt,134.5,155
+Ashley,Private room,59.06,62
+Avonmouth & Lawrence Weston,Entire home/apt,165.86,36
+Avonmouth & Lawrence Weston,Private room,52.09,22
+Bedminster,Entire home/apt,134.5,22
+Bedminster,Private room,75.71,17
+Bishopston & Ashley Down,Entire home/apt,118.86,28
+Bishopston & Ashley Down,Private room,53.84,19
+Bishopsworth,Entire home/apt,108.94,17
+Bishopsworth,Private room,48.8,10
+Brislington East,Entire home/apt,136.71,17
+Brislington East,Private room,48.43,7
+Brislington West,Entire home/apt,135.04,28
+Brislington West,Hotel room,109,1
+Brislington West,Private room,47.89,18
+Central,Entire home/apt,133.35,192
+Central,Hotel room,58,1
+Central,Private room,60.4,15
+Clifton,Entire home/apt,133.17,129
+Clifton,Private room,56.36,11
+Clifton Down,Entire home/apt,128.73,132
+Clifton Down,Hotel room,76,2
+Clifton Down,Private room,76.88,25
+Cotham,Entire home/apt,138.26,80
+Cotham,Private room,58.1,20
+Easton,Entire home/apt,95.89,44
+Easton,Private room,41.97,30
+Eastville,Entire home/apt,119.97,40
+Eastville,Private room,39.79,28
+Filwood,Entire home/apt,103.33,6
+Filwood,Private room,37.58,12
+Frome Vale,Entire home/apt,113.48,31
+Frome Vale,Private room,45.38,13
+Hartcliffe & Withywood,Entire home/apt,125.9,10
+Hartcliffe & Withywood,Private room,50.86,7
+Henbury & Brentry,Entire home/apt,184.63,8
+Henbury & Brentry,Private room,43.56,9
+Hengrove & Whitchurch Park,Entire home/apt,92.73,11
+Hengrove & Whitchurch Park,Private room,37.77,13
+Hillfields,Entire home/apt,96.91,11
+Hillfields,Private room,39.14,7
+Horfield,Entire home/apt,138.34,29
+Horfield,Private room,36.7,30
+Hotwells & Harbourside,Entire home/apt,154.52,77
+Hotwells & Harbourside,Private room,74.14,7
+Knowle,Entire home/apt,159.14,22
+Knowle,Private room,51.72,18
+Lawrence Hill,Entire home/apt,108.87,92
+Lawrence Hill,Private room,41.86,14
+Lockleaze,Entire home/apt,138.69,13
+Lockleaze,Private room,35.94,18
+Redland,Entire home/apt,131.94,48
+Redland,Private room,59.83,18
+Southmead,Entire home/apt,131.82,17
+Southmead,Private room,38.23,13
+Southville,Entire home/apt,128.81,80
+Southville,Private room,59.77,31
+St George Central,Entire home/apt,139.48,23
+St George Central,Private room,38.6,5
+St George Troopers Hill,Entire home/apt,123.13,8
+St George Troopers Hill,Private room,31.71,7
+St George West,Entire home/apt,126.09,33
+St George West,Private room,46.79,14
+Stockwood,Entire home/apt,128.57,7
+Stockwood,Private room,48,6
+Stoke Bishop,Entire home/apt,205.43,21
+Stoke Bishop,Private room,42,13
+Westbury-on-Trym & Henleaze,Entire home/apt,118.18,28
+Westbury-on-Trym & Henleaze,Private room,54.13,23
+Windmill Hill,Entire home/apt,133.27,51
+Windmill Hill,Private room,49.9,21
