@@ -13,7 +13,7 @@ SELECT
     name,
     host_id,
     host_name,
-    neighbourhood,  -- already correct in CSV
+    neighbourhood,  
     latitude,
     longitude,
     room_type,
