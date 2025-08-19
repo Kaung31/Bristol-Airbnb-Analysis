@@ -45,6 +45,19 @@ This Power BI version focuses on **data modeling, dashboard reporting, and story
 
 ---
 
+## 📖 Data Storytelling & Insights
+
+This dashboard goes beyond the numbers to highlight **why the data matters**:
+
+- **Seasonal demand:** Reviews peak in summer months, showing strong seasonality in Bristol’s Airbnb market.  
+- **COVID impact:** A sharp drop in 2020 reflects how travel restrictions hit short-term rentals.  
+- **Neighbourhood pricing:** Clifton and City Centre listings are the most expensive, while Easton and Southville remain more affordable.  
+- **Room type patterns:** Entire homes/apartments dominate the high-price range, while private rooms offer budget-friendly options.  
+- **Demand vs. price:** Higher prices do not always equal more reviews — suggesting guests balance affordability with location when booking.  
+
+➡️ Together, these insights show how **location, affordability, and external events (like COVID)** shape Airbnb demand in Bristol.
+
+
 ## 🛠 Tools Used
 - **SQL (SQLite via DBeaver)** – Data cleaning & transformation  
 - **Power BI (Power Query, DAX, Dashboarding)** – Data modeling & visualisation  
